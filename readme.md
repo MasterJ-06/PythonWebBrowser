@@ -7,7 +7,8 @@
 * [Creator](#creator)
 
 ## General info
-This project is a text adventure written in java.
+This project is a text adventure written in java.\
+The urls that can be entered into this app must be in the format http://\<address\>
 
 ## Setup
 This program was programmed natively in python 3.12.\
